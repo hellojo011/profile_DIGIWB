@@ -3216,6 +3216,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper > .inner {
+                    width: 100%;
 					padding: 3em 2em 1em 2em ;
 				}
 
@@ -3847,9 +3848,6 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#sidebar {
-				display: none;
-			}
 
 		}
 
